@@ -213,8 +213,5 @@ Returns 30 grocery products with title, price, discountPercentage, rating, stock
 ## Author
 
 **Ahmed Atef Mohamed**
-Frontend Developer — ITI React & Next.js
-
-[![LinkedIn](https://www.linkedin.com/in/ahmed-elhariry-0b548b388?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![GitHub](https://github.com/ahmedmhariryy)
+Frontend Developer — React & Next.js
 
